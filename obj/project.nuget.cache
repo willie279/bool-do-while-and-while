@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4r+3khZWdZncL6rERUbOCQkAlqfSAC2Ktmc6Ej2uI12e5SdvMBcNNEOVlmZaK2VSYjeIVSrjSt9NDiM20Vjh+w==",
+  "success": true,
+  "projectFilePath": "/Users/williea.bello/Documents/freecodecamp/C#/expresiones booleanas/ejericios con do while and while/Testproject/Testproject.csproj",
+  "expectedPackageFiles": [
+    "/Users/williea.bello/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/williea.bello/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/williea.bello/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.15/microsoft.netcore.app.host.osx-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
